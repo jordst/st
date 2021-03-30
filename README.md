@@ -1,11 +1,11 @@
 # st fork
 With added support for:
-	* clipboard
-	* inverting colours
-	* right clickpaste
-	* ligatures
-	* scrollback
-	* vertcenter
+* clipboard
+* inverting colours
+* right clickpaste
+* ligatures
+* scrollback
+* vertcenter
 
 
 # st - simple terminal
