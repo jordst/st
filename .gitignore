@@ -1,3 +1,10 @@
+st
+*.rej
+*.orig
+*.def
+*.def.h
+*.swp
+
 # Prerequisites
 *.d
 
